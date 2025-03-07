@@ -1,0 +1,14 @@
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\bin\Debug\net9.0\Net Anguşar Odev3.exe
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\bin\Debug\net9.0\Net Anguşar Odev3.deps.json
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\bin\Debug\net9.0\Net Anguşar Odev3.runtimeconfig.json
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\bin\Debug\net9.0\Net Anguşar Odev3.dll
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\bin\Debug\net9.0\Net Anguşar Odev3.pdb
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\obj\Debug\net9.0\Net Anguşar Odev3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\obj\Debug\net9.0\Net Anguşar Odev3.AssemblyInfoInputs.cache
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\obj\Debug\net9.0\Net Anguşar Odev3.AssemblyInfo.cs
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\obj\Debug\net9.0\Net Anguşar Odev3.csproj.CoreCompileInputs.cache
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\obj\Debug\net9.0\Net Anguşar Odev3.dll
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\obj\Debug\net9.0\refint\Net Anguşar Odev3.dll
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\obj\Debug\net9.0\Net Anguşar Odev3.pdb
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\obj\Debug\net9.0\Net Anguşar Odev3.genruntimeconfig.cache
+c:\Users\yusuf\Desktop\AkademiQ\Works\Net Anguşar Odev3\obj\Debug\net9.0\ref\Net Anguşar Odev3.dll
